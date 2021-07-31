@@ -3,7 +3,7 @@
 <body>
  
 <?php  
-$n = 12;  
+$n = 14;  
 $f = 1;  
 for ($i=$n; $i>=1; $i--)   
 {  
@@ -14,4 +14,4 @@ echo "$n! = $f";
  
 </body>
 </html>
-<!-- This is a comment -->
+<!-- This is a comment for version 2 -->
